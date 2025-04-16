@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644D1E5A-6E80-4EB4-A761-3AF9E8414470}|..\\SorterTests\\SorterTests.csproj|c:\\users\\oleg\\source\\repos\\sortertests\\sortertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\isorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|solutionrelative:isorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|solutionrelative:sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|c:\\users\\oleg\\source\\repos\\testlab1sort\\ishuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|solutionrelative:ishuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|c:\\users\\oleg\\source\\repos\\testlab1sort\\realshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E92CD4-0A8C-42CD-856C-918D463618C8}|TestLab1Sort.csproj|solutionrelative:realshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealShuffler.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\RealShuffler.cs",
+              "RelativeDocumentMoniker": "RealShuffler.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\RealShuffler.cs",
+              "RelativeToolTip": "RealShuffler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:45:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShuffler.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\IShuffler.cs",
+              "RelativeDocumentMoniker": "IShuffler.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\IShuffler.cs",
+              "RelativeToolTip": "IShuffler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:45:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISorter.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\ISorter.cs",
+              "RelativeDocumentMoniker": "ISorter.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\ISorter.cs",
+              "RelativeToolTip": "ISorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:33:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SorterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\SorterTests\\SorterTests.cs",
+              "RelativeDocumentMoniker": "..\\SorterTests\\SorterTests.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\SorterTests\\SorterTests.cs",
+              "RelativeToolTip": "..\\SorterTests\\SorterTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:25:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\Sorter.cs",
+              "RelativeDocumentMoniker": "Sorter.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\Sorter.cs",
+              "RelativeToolTip": "Sorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:19:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Oleg\\source\\repos\\TestLab1Sort\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:11:16.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\TestLab1Sort\bin\Debug\net8.0\TestLab1Sort.exe
+C:\Users\Oleg\source\repos\TestLab1Sort\bin\Debug\net8.0\TestLab1Sort.deps.json
+C:\Users\Oleg\source\repos\TestLab1Sort\bin\Debug\net8.0\TestLab1Sort.runtimeconfig.json
+C:\Users\Oleg\source\repos\TestLab1Sort\bin\Debug\net8.0\TestLab1Sort.dll
+C:\Users\Oleg\source\repos\TestLab1Sort\bin\Debug\net8.0\TestLab1Sort.pdb
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.dll
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\refint\TestLab1Sort.dll
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.pdb
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\TestLab1Sort.genruntimeconfig.cache
+C:\Users\Oleg\source\repos\TestLab1Sort\obj\Debug\net8.0\ref\TestLab1Sort.dll
